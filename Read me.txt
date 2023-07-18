@@ -1,0 +1,1 @@
+first download xammpp server also start with apache and then mysql
